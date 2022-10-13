@@ -15,3 +15,4 @@ Escuela de Ingeniería, Coquimbo
 # Laboratorios
 
 * **Laboratorio 01**: *Data scraping* y visualización
+* **Laboratorio 02**: Grafos y redes
