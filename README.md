@@ -18,3 +18,4 @@ Escuela de Ingeniería, Coquimbo
 * **Laboratorio 02**: Grafos y redes
 * **Laboratorio 03**: Procesamiento de texto
 * **Laboratorio 04**: Regresión lineal ([Link dataset](https://www.kaggle.com/datasets/harinir/petrol-consumption))
+* **Laboratorio 05**: Clasificación lineal (Parte I)
