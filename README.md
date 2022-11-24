@@ -21,5 +21,5 @@ Escuela de Ingeniería, Coquimbo
   * *Dataset*: [Petrol consumption](https://www.kaggle.com/datasets/harinir/petrol-consumption)
 * **Laboratorio 05.01**: Clasificación lineal (Parte I)
   * *Dataset*: [UTKFace (Conjuto de datos de caras)](https://susanqq.github.io/UTKFace/)
- * **Laboratorio 05.02**: Clasificación lineal (Parte II)
+* **Laboratorio 05.02**: Clasificación lineal (Parte II)
   * Métodos de validación y métricas
