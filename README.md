@@ -23,3 +23,6 @@ Escuela de Ingeniería, Coquimbo
   * *Dataset*: [UTKFace (Conjuto de datos de caras)](https://susanqq.github.io/UTKFace/)
 * **Laboratorio 05.02**: Clasificación lineal (Parte II)
   * Métodos de validación y métricas
+* **Laboratorio 05.03**: Aprendizaje no supervisado
+  * K-means y PCA
+* **Laboratorio 05.04**: Clasificación y regresión lineal (Parte III)
